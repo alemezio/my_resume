@@ -13,16 +13,14 @@ Base versions of my CV in English and Spanish, kept in sync.
 
 Quantitative Data Scientist | PhD in Physics  
 Targeting: Data Scientist, Applied ML Researcher, Applied Research Scientist roles.  
-Open to remote positions (Spain, Europe, LatAm).
+Open to remote positions.
 
 ## Links
 
 - LinkedIn: https://linkedin.com/in/alejandro-mezio
 - GitHub: https://github.com/alemezio
-- DS Project: https://github.com/alemezio/diplodatos_proyecto_final
 
 ## Notes
 
 - Base CVs are role-agnostic. Tailor summary and skills order per application.
 - Spanish version uses Argentine Spanish conventions.
-- Word source files kept separately.
