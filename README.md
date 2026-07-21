@@ -6,8 +6,8 @@ Base versions of my CV in English and Spanish, kept in sync.
 
 | File | Language | Format | Last updated |
 |------|----------|--------|--------------|
-| mezio_resume_eng.pdf | English | PDF | Jun 2025 |
-| mezio_resume_esp.pdf | Spanish | PDF | Jun 2025 |
+| mezio_resume_eng.pdf | English | PDF | Jul 2026 |
+| mezio_resume_esp.pdf | Spanish | PDF | Jul 2026 |
 
 ## Profile
 
