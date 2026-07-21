@@ -1,4 +1,4 @@
-# Alejandro Mezio — CV Repository
+# Alejandro Mezio - CV Repository
 
 Base versions of my CV in English and Spanish, kept in sync.
 
